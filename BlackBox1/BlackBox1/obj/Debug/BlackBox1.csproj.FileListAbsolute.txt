@@ -1,0 +1,16 @@
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\bin\Debug\BlackBox1.exe.config
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\bin\Debug\BlackBox1.exe
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\bin\Debug\BlackBox1.pdb
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.csproj.AssemblyReference.cache
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.csproj.SuggestedBindingRedirects.cache
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\MainWindow.g.cs
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\App.g.cs
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1_MarkupCompile.cache
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1_MarkupCompile.lref
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\MainWindow.baml
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.g.resources
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.Properties.Resources.resources
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.csproj.GenerateResource.cache
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.csproj.CoreCompileInputs.cache
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.exe
+C:\Users\itwis\source\repos\BlackBox1\BlackBox1\obj\Debug\BlackBox1.pdb
