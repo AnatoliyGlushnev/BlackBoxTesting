@@ -1,0 +1,20 @@
+﻿<Window x:Class="BlackBox2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BlackBox2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="182" Width="226">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="a=" VerticalAlignment="Top"/>
+        <TextBox Name="As" HorizontalAlignment="Left" Margin="25,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="As_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,33,0,0" TextWrapping="Wrap" Text="b=" VerticalAlignment="Top"/>
+        <TextBox Name="Bs" HorizontalAlignment="Left" Margin="25,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="Bs_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,56,0,0" TextWrapping="Wrap" Text="c=" VerticalAlignment="Top"/>
+        <TextBox Name="Cs" HorizontalAlignment="Left" Margin="25,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="Cs_TextChanged"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" Width="135" Click="Button_Click"/>
+        <Label Name="Otvet" Content="Ответ" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top" Width="239"/>
+
+    </Grid>
+</Window>
